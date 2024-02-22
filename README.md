@@ -4,30 +4,14 @@ Connect 4 is a two-player connection board game, in which the players choose a c
 
 ## Installation
 
-Clone the repository to your local machine:
+Clone the repository to your local machine: `git clone https://github.com/abdoukolley/Connect-4.git`
 
-\`\`\`bash
-git clone https://github.com/abdoukolley/Connect-4.git
-\`\`\`
+Navigate to the project directory: `cd connect4`
 
-Navigate to the project directory:
-
-\`\`\`bash
-cd connect4
-\`\`\`
-
-Install the required dependencies:
-
-\`\`\`bash
-pip install -r requirements.txt
-\`\`\`
+Install the required dependencies: `pip install -r requirements.txt`
 
 ## Usage
 
-Run the game:
-
-\`\`\`bash
-python connect4.py
-\`\`\`
+Run the game: `python connect4.py`
 
 The game can also be run through the dist folder were an executable file has been created.
