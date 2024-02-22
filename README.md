@@ -8,8 +8,6 @@ Clone the repository to your local machine: `git clone https://github.com/abdouk
 
 Navigate to the project directory: `cd connect4`
 
-Install the required dependencies: `pip install -r requirements.txt`
-
 ## Usage
 
 Run the game: `python connect4.py`
